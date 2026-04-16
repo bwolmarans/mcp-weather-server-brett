@@ -1,4 +1,4 @@
-# Brett's Changes.
+# Brett's Changes..
 
 Really just the agent I created with claude, that I then prompted to create a bash script that would use the custom mcp server.
 Also: When I first forked this, it only worked with Claud Desktop and getting that to work on Windows is not something I succeeded doing, so I want to add some instructions here on how to get this to work with Claude code:
